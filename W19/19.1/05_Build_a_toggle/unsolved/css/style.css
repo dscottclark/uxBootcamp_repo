@@ -1,0 +1,56 @@
+html {
+    padding:0;
+    margin:0;
+    border: 0;
+}
+
+.container {
+    width: 21rem;
+    height: fit-content;
+    text-align: center;
+    padding: 16px 0;
+    color:#ededed;
+    font-weight: 800;
+    font-family: sans-serif;
+    background-color: #fefefe;
+    font-size: 22px;
+    margin:0 auto;
+
+}
+#button {
+    padding:16px ;
+}
+
+#toggle {
+    background-color: rgb(180, 0, 0);
+    cursor: pointer;
+
+
+}
+
+#dropdown {
+    display: none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0;
+    color:#121212;
+    background-color: #fefefe;
+
+}
+
+li{
+    margin:0;
+    padding:16px;
+    text-align: center;
+    border: 1px solid #444;
+}
+
+img {
+    width: 18px;
+}
